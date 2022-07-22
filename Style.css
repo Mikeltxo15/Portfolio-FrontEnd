@@ -1,3 +1,13 @@
-h1 {color :darkblue}
-article p {color :firebrick}
-li.destacado {font-weight: bold;}
+body {
+    color :white;
+    background-color: black;
+}
+h1 {
+    color :darkblue;
+}
+article p {
+    color :firebrick;
+}
+li.destacado {
+    font-weight: bold;
+}
